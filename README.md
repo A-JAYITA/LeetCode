@@ -28,6 +28,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/A-JAYITA/LeetCode/tree/master/0066-plus-one) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Simulation
 |  |
 | ------- |
