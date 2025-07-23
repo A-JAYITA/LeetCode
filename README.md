@@ -30,6 +30,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/A-JAYITA/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3617-find-the-original-typed-string-i](https://github.com/A-JAYITA/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
 | ------- |
