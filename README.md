@@ -38,6 +38,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3617-find-the-original-typed-string-i](https://github.com/A-JAYITA/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0022-generate-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0022-generate-parentheses) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/A-JAYITA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
