@@ -27,6 +27,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/A-JAYITA/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -90,6 +91,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
