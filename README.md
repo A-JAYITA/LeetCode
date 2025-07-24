@@ -49,6 +49,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 <!---LeetCode Topics End-->
