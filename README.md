@@ -19,6 +19,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/A-JAYITA/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
 ## String
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
