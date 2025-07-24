@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/A-JAYITA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A-JAYITA/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 | ------- |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/A-JAYITA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
