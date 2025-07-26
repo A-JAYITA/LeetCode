@@ -60,6 +60,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/A-JAYITA/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/A-JAYITA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Simulation
 |  |
 | ------- |
@@ -149,4 +150,13 @@
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/A-JAYITA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/A-JAYITA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/A-JAYITA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
