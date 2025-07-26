@@ -51,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A-JAYITA/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/A-JAYITA/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/A-JAYITA/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/A-JAYITA/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/A-JAYITA/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A-JAYITA/LeetCode/tree/master/0242-valid-anagram) |
