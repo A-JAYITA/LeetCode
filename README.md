@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/A-JAYITA/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/A-JAYITA/LeetCode/tree/master/0050-powx-n) |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/A-JAYITA/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/A-JAYITA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/A-JAYITA/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/A-JAYITA/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/0049-group-anagrams) |
