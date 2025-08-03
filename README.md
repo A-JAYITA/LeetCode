@@ -66,6 +66,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A-JAYITA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/A-JAYITA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Counting
 |  |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/A-JAYITA/LeetCode/tree/master/0035-search-insert-position) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/A-JAYITA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Tree
 |  |
@@ -184,6 +187,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/A-JAYITA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Segment Tree
