@@ -23,6 +23,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/A-JAYITA/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A-JAYITA/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Dynamic Programming
 |  |
