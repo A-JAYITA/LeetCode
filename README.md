@@ -17,6 +17,7 @@
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/A-JAYITA/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/A-JAYITA/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/A-JAYITA/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/A-JAYITA/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -159,6 +160,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/A-JAYITA/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/A-JAYITA/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
