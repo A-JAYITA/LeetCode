@@ -16,6 +16,7 @@
 | [0326-power-of-three](https://github.com/A-JAYITA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/A-JAYITA/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/A-JAYITA/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/A-JAYITA/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -143,6 +144,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/A-JAYITA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0118-pascals-triangle) |
+| [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/A-JAYITA/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/A-JAYITA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -278,4 +281,8 @@
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/A-JAYITA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
