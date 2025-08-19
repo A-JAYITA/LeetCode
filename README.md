@@ -21,6 +21,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/A-JAYITA/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/A-JAYITA/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/A-JAYITA/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/A-JAYITA/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A-JAYITA/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -84,6 +85,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/A-JAYITA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/A-JAYITA/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/A-JAYITA/LeetCode/tree/master/2529-range-product-queries-of-powers) |
