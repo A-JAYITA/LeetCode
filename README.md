@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/A-JAYITA/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/A-JAYITA/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/A-JAYITA/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/A-JAYITA/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/A-JAYITA/LeetCode/tree/master/0066-plus-one) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/A-JAYITA/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
