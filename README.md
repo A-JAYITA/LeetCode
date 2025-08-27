@@ -104,6 +104,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/A-JAYITA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/A-JAYITA/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/A-JAYITA/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/A-JAYITA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -243,6 +244,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/A-JAYITA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/A-JAYITA/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## String Matching
 |  |
 | ------- |
@@ -318,6 +320,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/A-JAYITA/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/A-JAYITA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/A-JAYITA/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -339,4 +342,8 @@
 | [1811-fix-names-in-a-table](https://github.com/A-JAYITA/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/A-JAYITA/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/A-JAYITA/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/A-JAYITA/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
