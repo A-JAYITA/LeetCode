@@ -341,6 +341,7 @@
 | [0595-big-countries](https://github.com/A-JAYITA/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/A-JAYITA/LeetCode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/A-JAYITA/LeetCode/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/A-JAYITA/LeetCode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/A-JAYITA/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/A-JAYITA/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/A-JAYITA/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
