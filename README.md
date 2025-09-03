@@ -24,6 +24,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/A-JAYITA/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/A-JAYITA/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/A-JAYITA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/A-JAYITA/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -103,6 +104,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/A-JAYITA/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/A-JAYITA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/A-JAYITA/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A-JAYITA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/A-JAYITA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/A-JAYITA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -294,6 +297,7 @@
 | [0242-valid-anagram](https://github.com/A-JAYITA/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/A-JAYITA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/A-JAYITA/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
@@ -370,5 +374,6 @@
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/A-JAYITA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
