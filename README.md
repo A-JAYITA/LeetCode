@@ -29,6 +29,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/A-JAYITA/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A-JAYITA/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/A-JAYITA/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
