@@ -13,6 +13,7 @@
 | [0050-powx-n](https://github.com/A-JAYITA/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/A-JAYITA/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/A-JAYITA/LeetCode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/A-JAYITA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/A-JAYITA/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/A-JAYITA/LeetCode/tree/master/0069-sqrtx) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/A-JAYITA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
