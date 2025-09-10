@@ -95,6 +95,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/A-JAYITA/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/A-JAYITA/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -166,6 +167,7 @@
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0940-fruit-into-baskets](https://github.com/A-JAYITA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -205,6 +207,7 @@
 | ------- |
 | [1448-maximum-69-number](https://github.com/A-JAYITA/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/A-JAYITA/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/A-JAYITA/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
