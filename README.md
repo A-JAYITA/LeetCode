@@ -238,10 +238,12 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/A-JAYITA/LeetCode/tree/master/0100-same-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/A-JAYITA/LeetCode/tree/master/0100-same-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Linked List
 |  |
@@ -403,4 +405,12 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/A-JAYITA/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/A-JAYITA/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/A-JAYITA/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
