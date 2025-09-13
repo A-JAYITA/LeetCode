@@ -73,6 +73,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/A-JAYITA/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/A-JAYITA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/A-JAYITA/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/A-JAYITA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/A-JAYITA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
