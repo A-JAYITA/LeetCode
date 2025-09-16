@@ -26,6 +26,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/A-JAYITA/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/A-JAYITA/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/A-JAYITA/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/A-JAYITA/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -112,6 +113,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A-JAYITA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -216,6 +218,7 @@
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -430,4 +433,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
