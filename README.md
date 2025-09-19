@@ -411,6 +411,7 @@
 | [0584-find-customer-referee](https://github.com/A-JAYITA/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/A-JAYITA/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/A-JAYITA/LeetCode/tree/master/0620-not-boring-movies) |
+| [1182-game-play-analysis-iv](https://github.com/A-JAYITA/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/A-JAYITA/LeetCode/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/A-JAYITA/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/A-JAYITA/LeetCode/tree/master/1317-monthly-transactions-i) |
