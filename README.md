@@ -416,6 +416,7 @@
 | [1462-list-the-products-ordered-in-a-period](https://github.com/A-JAYITA/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/A-JAYITA/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/A-JAYITA/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/A-JAYITA/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/A-JAYITA/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/A-JAYITA/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/A-JAYITA/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
