@@ -110,6 +110,7 @@
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/A-JAYITA/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/A-JAYITA/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A-JAYITA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -187,6 +188,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-JAYITA/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/A-JAYITA/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2429-design-a-food-rating-system](https://github.com/A-JAYITA/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -357,6 +359,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/A-JAYITA/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/A-JAYITA/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/A-JAYITA/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/A-JAYITA/LeetCode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
@@ -380,6 +383,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/A-JAYITA/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/A-JAYITA/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/A-JAYITA/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -462,6 +466,7 @@
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/A-JAYITA/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/A-JAYITA/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/A-JAYITA/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/A-JAYITA/LeetCode/tree/master/3797-design-spreadsheet) |
