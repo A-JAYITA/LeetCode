@@ -21,6 +21,7 @@
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/A-JAYITA/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0830-largest-triangle-area](https://github.com/A-JAYITA/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/A-JAYITA/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/A-JAYITA/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -104,6 +105,7 @@
 | [0498-diagonal-traverse](https://github.com/A-JAYITA/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/A-JAYITA/LeetCode/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/A-JAYITA/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/A-JAYITA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/A-JAYITA/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -458,6 +460,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/A-JAYITA/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/A-JAYITA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
