@@ -45,6 +45,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/A-JAYITA/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A-JAYITA/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/A-JAYITA/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-JAYITA/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/A-JAYITA/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/A-JAYITA/LeetCode/tree/master/3830-find-closest-person) |
@@ -225,6 +226,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/A-JAYITA/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/A-JAYITA/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A-JAYITA/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/A-JAYITA/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-JAYITA/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/A-JAYITA/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
