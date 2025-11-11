@@ -83,6 +83,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/A-JAYITA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/A-JAYITA/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/A-JAYITA/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-JAYITA/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/A-JAYITA/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -125,6 +126,7 @@
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-JAYITA/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/A-JAYITA/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/A-JAYITA/LeetCode/tree/master/0679-24-game) |
@@ -426,6 +428,7 @@
 | [0070-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/A-JAYITA/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
