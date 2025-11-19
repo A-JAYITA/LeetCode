@@ -166,6 +166,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/A-JAYITA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/A-JAYITA/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/A-JAYITA/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-JAYITA/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -227,6 +228,7 @@
 | [1642-water-bottles](https://github.com/A-JAYITA/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/A-JAYITA/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/A-JAYITA/LeetCode/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-JAYITA/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/A-JAYITA/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -286,6 +288,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2169-simple-bank-system](https://github.com/A-JAYITA/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/A-JAYITA/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-JAYITA/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/A-JAYITA/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/A-JAYITA/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -516,6 +519,7 @@
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-JAYITA/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/A-JAYITA/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/A-JAYITA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
