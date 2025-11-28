@@ -426,6 +426,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/A-JAYITA/LeetCode/tree/master/0100-same-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/A-JAYITA/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-JAYITA/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/A-JAYITA/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/A-JAYITA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/A-JAYITA/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/A-JAYITA/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
