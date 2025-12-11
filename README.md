@@ -16,6 +16,7 @@
 | [0069-sqrtx](https://github.com/A-JAYITA/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-JAYITA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/A-JAYITA/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/A-JAYITA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
@@ -307,6 +308,7 @@
 | [0141-linked-list-cycle](https://github.com/A-JAYITA/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-JAYITA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/A-JAYITA/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A-JAYITA/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -431,6 +433,7 @@
 | [0141-linked-list-cycle](https://github.com/A-JAYITA/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/A-JAYITA/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/A-JAYITA/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0392-is-subsequence) |
