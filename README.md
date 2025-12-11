@@ -91,6 +91,7 @@
 | [0049-group-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/A-JAYITA/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/A-JAYITA/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-JAYITA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/A-JAYITA/LeetCode/tree/master/0242-valid-anagram) |
@@ -430,6 +431,7 @@
 | [0027-remove-element](https://github.com/A-JAYITA/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/A-JAYITA/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/A-JAYITA/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A-JAYITA/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0165-compare-version-numbers) |
