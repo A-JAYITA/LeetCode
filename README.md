@@ -144,6 +144,7 @@
 | [0120-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/A-JAYITA/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-JAYITA/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -437,6 +438,7 @@
 | [0165-compare-version-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/A-JAYITA/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/A-JAYITA/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
