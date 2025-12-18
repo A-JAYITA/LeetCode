@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/A-JAYITA/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/A-JAYITA/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-JAYITA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/A-JAYITA/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -148,6 +149,7 @@
 | [0118-pascals-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/A-JAYITA/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/A-JAYITA/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-JAYITA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0283-move-zeroes) |
@@ -408,6 +410,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/A-JAYITA/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/A-JAYITA/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
