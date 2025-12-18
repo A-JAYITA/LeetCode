@@ -411,6 +411,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/A-JAYITA/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/A-JAYITA/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/A-JAYITA/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -793,6 +794,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/A-JAYITA/LeetCode/tree/master/0155-min-stack) |
 | [2023-design-movie-rental-system](https://github.com/A-JAYITA/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/A-JAYITA/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/A-JAYITA/LeetCode/tree/master/2429-design-a-food-rating-system) |
