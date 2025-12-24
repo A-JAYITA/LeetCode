@@ -148,6 +148,7 @@
 | [0036-valid-sudoku](https://github.com/A-JAYITA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/A-JAYITA/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/A-JAYITA/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/A-JAYITA/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/A-JAYITA/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/A-JAYITA/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -465,6 +467,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A-JAYITA/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/A-JAYITA/LeetCode/tree/master/0125-valid-palindrome) |
@@ -547,6 +550,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0120-triangle) |
@@ -745,6 +749,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/A-JAYITA/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/A-JAYITA/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
