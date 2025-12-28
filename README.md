@@ -186,6 +186,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/A-JAYITA/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/A-JAYITA/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/A-JAYITA/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/A-JAYITA/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -502,6 +503,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-JAYITA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/A-JAYITA/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/A-JAYITA/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/A-JAYITA/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/A-JAYITA/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -740,6 +742,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/A-JAYITA/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/A-JAYITA/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/A-JAYITA/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/A-JAYITA/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
