@@ -11,6 +11,7 @@
 | [0029-divide-two-integers](https://github.com/A-JAYITA/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/A-JAYITA/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/A-JAYITA/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/A-JAYITA/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/A-JAYITA/LeetCode/tree/master/0069-sqrtx) |
@@ -586,6 +587,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/A-JAYITA/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/A-JAYITA/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/A-JAYITA/LeetCode/tree/master/0091-decode-ways) |
@@ -893,6 +895,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/A-JAYITA/LeetCode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/A-JAYITA/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/A-JAYITA/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
