@@ -161,6 +161,7 @@
 | [0049-group-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/A-JAYITA/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0120-triangle) |
@@ -452,6 +453,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-JAYITA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/A-JAYITA/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/A-JAYITA/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -594,6 +596,7 @@
 | [0062-unique-paths](https://github.com/A-JAYITA/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/A-JAYITA/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/A-JAYITA/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0120-triangle) |
@@ -782,6 +785,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/A-JAYITA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/A-JAYITA/LeetCode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-JAYITA/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/A-JAYITA/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -810,6 +814,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/A-JAYITA/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/A-JAYITA/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
