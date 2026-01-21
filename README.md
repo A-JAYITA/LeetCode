@@ -175,6 +175,7 @@
 | [0189-rotate-array](https://github.com/A-JAYITA/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/A-JAYITA/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/A-JAYITA/LeetCode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -623,6 +624,7 @@
 | [0118-pascals-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/A-JAYITA/LeetCode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/A-JAYITA/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -815,6 +817,7 @@
 | [0063-unique-paths-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/A-JAYITA/LeetCode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-JAYITA/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/A-JAYITA/LeetCode/tree/master/0498-diagonal-traverse) |
