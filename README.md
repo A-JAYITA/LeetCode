@@ -191,6 +191,7 @@
 | [0518-coin-change-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/A-JAYITA/LeetCode/tree/master/0679-24-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/A-JAYITA/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/A-JAYITA/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/A-JAYITA/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -496,6 +497,7 @@
 | [0011-container-with-most-water](https://github.com/A-JAYITA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/A-JAYITA/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -645,6 +647,7 @@
 | [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/A-JAYITA/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
