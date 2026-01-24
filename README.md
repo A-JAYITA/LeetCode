@@ -230,6 +230,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/A-JAYITA/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/A-JAYITA/LeetCode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/A-JAYITA/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/A-JAYITA/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -512,6 +513,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/A-JAYITA/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/A-JAYITA/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/A-JAYITA/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/A-JAYITA/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -551,6 +553,7 @@
 | [0844-backspace-string-compare](https://github.com/A-JAYITA/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/A-JAYITA/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-JAYITA/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -757,6 +760,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/A-JAYITA/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/A-JAYITA/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/A-JAYITA/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/A-JAYITA/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
