@@ -138,6 +138,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/A-JAYITA/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A-JAYITA/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/A-JAYITA/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/A-JAYITA/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/A-JAYITA/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -273,6 +274,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/A-JAYITA/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A-JAYITA/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/A-JAYITA/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A-JAYITA/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/A-JAYITA/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -453,6 +455,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/A-JAYITA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/A-JAYITA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -684,6 +687,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/A-JAYITA/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/A-JAYITA/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/A-JAYITA/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/A-JAYITA/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-JAYITA/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/A-JAYITA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1021,10 +1025,12 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A-JAYITA/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A-JAYITA/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A-JAYITA/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/A-JAYITA/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A-JAYITA/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
