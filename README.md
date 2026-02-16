@@ -379,6 +379,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/A-JAYITA/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -838,6 +839,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/A-JAYITA/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/A-JAYITA/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
