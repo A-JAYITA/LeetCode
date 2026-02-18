@@ -383,6 +383,7 @@
 | [0029-divide-two-integers](https://github.com/A-JAYITA/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/A-JAYITA/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -695,6 +696,7 @@
 | [0221-maximal-square](https://github.com/A-JAYITA/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-JAYITA/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0338-counting-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
