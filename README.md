@@ -203,6 +203,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/A-JAYITA/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/A-JAYITA/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/A-JAYITA/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/A-JAYITA/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/A-JAYITA/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -705,6 +706,7 @@
 | [0518-coin-change-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/A-JAYITA/LeetCode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
