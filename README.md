@@ -112,6 +112,7 @@
 | [0344-reverse-string](https://github.com/A-JAYITA/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0844-backspace-string-compare](https://github.com/A-JAYITA/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -698,6 +699,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
