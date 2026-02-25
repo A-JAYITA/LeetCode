@@ -247,6 +247,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/A-JAYITA/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/A-JAYITA/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/A-JAYITA/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -567,6 +568,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/A-JAYITA/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/A-JAYITA/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/A-JAYITA/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/A-JAYITA/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -850,6 +852,7 @@
 | [1200-minimum-absolute-difference](https://github.com/A-JAYITA/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/A-JAYITA/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1710-maximum-units-on-a-truck](https://github.com/A-JAYITA/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/A-JAYITA/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/A-JAYITA/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
