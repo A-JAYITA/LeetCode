@@ -214,6 +214,7 @@
 | [0794-swim-in-rising-water](https://github.com/A-JAYITA/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/A-JAYITA/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/A-JAYITA/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/A-JAYITA/LeetCode/tree/master/0860-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/A-JAYITA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/A-JAYITA/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -555,6 +556,7 @@
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/A-JAYITA/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0860-lemonade-change](https://github.com/A-JAYITA/LeetCode/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/A-JAYITA/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
