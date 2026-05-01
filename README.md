@@ -23,6 +23,7 @@
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/A-JAYITA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/A-JAYITA/LeetCode/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/A-JAYITA/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/A-JAYITA/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -225,6 +226,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-JAYITA/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/A-JAYITA/LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-JAYITA/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -834,6 +836,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-JAYITA/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/A-JAYITA/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/A-JAYITA/LeetCode/tree/master/0494-target-sum) |
