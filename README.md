@@ -27,6 +27,7 @@
 | [0679-24-game](https://github.com/A-JAYITA/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/A-JAYITA/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/A-JAYITA/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/A-JAYITA/LeetCode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/A-JAYITA/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/A-JAYITA/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
@@ -845,6 +846,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/A-JAYITA/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-JAYITA/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/A-JAYITA/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/A-JAYITA/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/A-JAYITA/LeetCode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/A-JAYITA/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/A-JAYITA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
