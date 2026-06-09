@@ -22,6 +22,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/A-JAYITA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/A-JAYITA/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/A-JAYITA/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/A-JAYITA/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/A-JAYITA/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/A-JAYITA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
@@ -239,6 +240,7 @@
 | [0198-house-robber](https://github.com/A-JAYITA/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/A-JAYITA/LeetCode/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/A-JAYITA/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/A-JAYITA/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-JAYITA/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -519,6 +521,7 @@
 | [0029-divide-two-integers](https://github.com/A-JAYITA/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/A-JAYITA/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/A-JAYITA/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/A-JAYITA/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/A-JAYITA/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/A-JAYITA/LeetCode/tree/master/0401-binary-watch) |
@@ -564,6 +567,7 @@
 | [0202-happy-number](https://github.com/A-JAYITA/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A-JAYITA/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/A-JAYITA/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0756-pyramid-transition-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/A-JAYITA/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -801,6 +805,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-JAYITA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/A-JAYITA/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/A-JAYITA/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -1076,6 +1081,7 @@
 | [0088-merge-sorted-array](https://github.com/A-JAYITA/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/A-JAYITA/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A-JAYITA/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/A-JAYITA/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/A-JAYITA/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/A-JAYITA/LeetCode/tree/master/0611-valid-triangle-number) |
