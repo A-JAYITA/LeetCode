@@ -320,6 +320,7 @@
 | [1732-find-the-highest-altitude](https://github.com/A-JAYITA/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/A-JAYITA/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/A-JAYITA/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/A-JAYITA/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/A-JAYITA/LeetCode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/A-JAYITA/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -749,6 +750,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/A-JAYITA/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/A-JAYITA/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/A-JAYITA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/A-JAYITA/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/A-JAYITA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/A-JAYITA/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1125,6 +1127,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/A-JAYITA/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/A-JAYITA/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/A-JAYITA/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/A-JAYITA/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/A-JAYITA/LeetCode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A-JAYITA/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/A-JAYITA/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1475,4 +1478,8 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/A-JAYITA/LeetCode/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/A-JAYITA/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
