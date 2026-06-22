@@ -149,6 +149,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/A-JAYITA/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/A-JAYITA/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1143-longest-common-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/A-JAYITA/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-JAYITA/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/A-JAYITA/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/A-JAYITA/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -595,6 +596,7 @@
 | [1006-vowel-spellchecker](https://github.com/A-JAYITA/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/A-JAYITA/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/A-JAYITA/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/A-JAYITA/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-JAYITA/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/A-JAYITA/LeetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -697,6 +699,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/A-JAYITA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/A-JAYITA/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/A-JAYITA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/A-JAYITA/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/A-JAYITA/LeetCode/tree/master/2833-furthest-point-from-origin) |
