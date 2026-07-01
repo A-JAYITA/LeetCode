@@ -390,6 +390,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A-JAYITA/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/A-JAYITA/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/A-JAYITA/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A-JAYITA/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -861,6 +862,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/A-JAYITA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/A-JAYITA/LeetCode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/A-JAYITA/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/A-JAYITA/LeetCode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A-JAYITA/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-JAYITA/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1219,6 +1221,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/A-JAYITA/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2402-meeting-rooms-iii](https://github.com/A-JAYITA/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/A-JAYITA/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/A-JAYITA/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A-JAYITA/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/A-JAYITA/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1303,6 +1306,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/A-JAYITA/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/A-JAYITA/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/A-JAYITA/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A-JAYITA/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/A-JAYITA/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1398,6 +1402,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/A-JAYITA/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/A-JAYITA/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/A-JAYITA/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/A-JAYITA/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/A-JAYITA/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -1496,6 +1501,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/A-JAYITA/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/A-JAYITA/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/A-JAYITA/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/A-JAYITA/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/A-JAYITA/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
