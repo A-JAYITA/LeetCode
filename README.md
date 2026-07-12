@@ -297,6 +297,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/A-JAYITA/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-JAYITA/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/A-JAYITA/LeetCode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/A-JAYITA/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/A-JAYITA/LeetCode/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A-JAYITA/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -613,6 +614,7 @@
 | [1039-find-the-town-judge](https://github.com/A-JAYITA/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/A-JAYITA/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-JAYITA/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/A-JAYITA/LeetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/A-JAYITA/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1164,6 +1166,7 @@
 | [1200-minimum-absolute-difference](https://github.com/A-JAYITA/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/A-JAYITA/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/A-JAYITA/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/A-JAYITA/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/A-JAYITA/LeetCode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-JAYITA/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/A-JAYITA/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
