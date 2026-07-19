@@ -153,6 +153,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/A-JAYITA/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/A-JAYITA/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/A-JAYITA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/A-JAYITA/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/A-JAYITA/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-JAYITA/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -752,6 +753,7 @@
 | [0155-min-stack](https://github.com/A-JAYITA/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/A-JAYITA/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/A-JAYITA/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/A-JAYITA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/A-JAYITA/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/A-JAYITA/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -774,6 +776,7 @@
 | [0860-lemonade-change](https://github.com/A-JAYITA/LeetCode/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A-JAYITA/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/A-JAYITA/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/A-JAYITA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/A-JAYITA/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/A-JAYITA/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/A-JAYITA/LeetCode/tree/master/1448-maximum-69-number) |
@@ -1374,6 +1377,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/A-JAYITA/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/A-JAYITA/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/A-JAYITA/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/A-JAYITA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/A-JAYITA/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/A-JAYITA/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
